@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testnbdev"
+  site-url: "https://berthouz.github.io/testnbdev"
+  description: "Testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/berthouz/testnbdev"
